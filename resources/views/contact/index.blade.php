@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <div class="container">
-    <h1>CRUD app</h1>
+    <h1>CRUD App</h1>
     <div><i class="fa fa-fw fa-plus-circle"></i>
         <strong>Add User</strong>
         <a href="create" class="float-right btn btn-dark btn-sm"><i class="fa fa-fw fa-globe"></i>Add User</a>
